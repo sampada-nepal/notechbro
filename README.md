@@ -1,7 +1,7 @@
 # notechbro
 twitter techbro translator
 
-- Download the extension directory from the release page
-- Go to chrome://extensions/
-- Enable "Developer mode" in the top right corner
-- Click "Load unpacked" and select the extension directory
+- download the extension directory ^
+- go to chrome://extensions/
+- enable "Developer mode" in the top right corner
+- click "Load unpacked" and select the extension directory
